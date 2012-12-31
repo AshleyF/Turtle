@@ -4,7 +4,7 @@ A very simple Turtle Graphics implementation using HTML5 canvas and JavaScript. 
 
 > `0(1adf89r)180x`
 
-Give it a try: http://brief.azurewebsites.net/archive/turtle/?(320dg0(1adf89r)720x1lc)1000x
+Give it a try: http://brief.azurewebsites.net/archive/turtle/?0(1adf89r)180x
 
 There's also a YouTube demo here: http://www.youtube.com/watch?v=CVFcpoULWq4
 
